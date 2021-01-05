@@ -1,0 +1,14 @@
+{
+  "name": "paulon-bot",
+  "version": "1.0.0",
+  "description": "Bot discord de paulon",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Paulon",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
