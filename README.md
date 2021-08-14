@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+## The Bot
 
-You can use the [editor on GitHub](https://github.com/MrPaulon/Bot-Discord/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The BOT est un bot discord. Avec The BOT vous avez désormais une liberté total, et une multitude de choix pour gérer la modération de votre discord comme vous l'entendez, créer des événements pour votre commnauté, organiser un giveway, faire un Blins-Test ou encore plus simplement écouter de la musique ? 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Alors convaincu ? The BOT n'attends plus que vous alors [cliquez ici](https://google.com/)
 
-### Markdown
+### Commandes
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ci-dessous vous retrouverez la totalités des commandes de The BOT
 
 ```markdown
-Syntax highlighted code block
+Le préfix de the BOT est p!
 
-# Header 1
-## Header 2
-### Header 3
+# Commandes
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+01. p!help = Obtenir la liste des commandes directement sur discord
+02. p!kick = Permet de kick un membre du discord
+03. p!tempkick = Permet de kick un membre du discord de facon temporaire
+04. p!ban = Permet de bannir quelqu'un du discord
+05. p!tempban = Permet de bannir de facon temporaire un membre du discord
+06. p!mute = Permet de mute quelqu'un du discord
+07. p!tempmute = Permet de mute quelqu'un de facon temporaire
+08. p!play = Permet de jouer de la musique
+09. p!blindtest = Permet de lancer un Blind-Test
+10. p!pause = Permet de mettre pause à la musique
+11. p!replay = Permet de rejouer la musique
+12. p!startgame = Permet de lancer le mini-jeu
+13. p!settings = Permet d'accéder au paramètres
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Pour plus de détail [cliquez ici](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Configurer le BOT
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MrPaulon/Bot-Discord/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Pour configurer le bot il vous suffit de faire la commande suivante "p!settings". Si cela ne vous conviens pas vous avez toujours la possibilité de modifier directement dans le fichier `settings.js`.
 
-### Support or Contact
+### Participer au code
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Pour participer au code il vous suffit de rejoindre mon [discord](https://docs.github.com/categories/github-pages-basics/) et de faire une demande dans le salon "Participer au code". Il vous reste plus qu'a idiquer votre Github et pourquoi vous voulez avoir accès au code
+
+## Support
+
+Si vous souhaitez m'aidez financièrement je vous laisse mon [Tippee](https://google.com)
